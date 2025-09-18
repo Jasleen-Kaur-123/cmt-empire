@@ -1,4 +1,4 @@
-export default function HomeSection() {
+export default function Homesection() {
   const cards = [
     {
       name: "Anthoxanthin",
